@@ -9,19 +9,19 @@
 
 header{
     background: var(--bg-blue);
-    height: 90px;    
+    height: 100px;    
 }
 
 main{
     background: var(--bg-wine);
     height: 200px;
-    width: 1500px;
-    clear: both;
-}
+    width: 100vw;
+    clear: both;}
+    
     div{
         background: var(--bg-wine);
         height: 100px;
-        width: 1150px;
+        width: 80vw;
         float: left;
         margin: 10px 0 10px 0;
     }
